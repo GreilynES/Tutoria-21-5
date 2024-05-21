@@ -1,0 +1,6 @@
+C:\Users\greil\Documents\QuizzTuto\ApiClinica\ApiClinica\obj\Debug\net8.0\ApiClinica.csproj.AssemblyReference.cache
+C:\Users\greil\Documents\QuizzTuto\ApiClinica\ApiClinica\obj\Debug\net8.0\ApiClinica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\greil\Documents\QuizzTuto\ApiClinica\ApiClinica\obj\Debug\net8.0\ApiClinica.AssemblyInfoInputs.cache
+C:\Users\greil\Documents\QuizzTuto\ApiClinica\ApiClinica\obj\Debug\net8.0\ApiClinica.AssemblyInfo.cs
+C:\Users\greil\Documents\QuizzTuto\ApiClinica\ApiClinica\obj\Debug\net8.0\ApiClinica.csproj.CoreCompileInputs.cache
+C:\Users\greil\Documents\QuizzTuto\ApiClinica\ApiClinica\obj\Debug\net8.0\ApiClinica.MvcApplicationPartsAssemblyInfo.cache

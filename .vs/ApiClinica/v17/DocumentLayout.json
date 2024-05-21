@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\greil\\Documents\\QuizzTuto\\ApiClinica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0C9682-BAD8-4400-9491-7AAD9E916D9E}|Services\\Services.csproj|c:\\users\\greil\\documents\\quizztuto\\apiclinica\\services\\usuario\\isvusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0C9682-BAD8-4400-9491-7AAD9E916D9E}|Services\\Services.csproj|solutionrelative:services\\usuario\\isvusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0C9682-BAD8-4400-9491-7AAD9E916D9E}|Services\\Services.csproj|c:\\users\\greil\\documents\\quizztuto\\apiclinica\\services\\usuario\\svusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0C9682-BAD8-4400-9491-7AAD9E916D9E}|Services\\Services.csproj|solutionrelative:services\\usuario\\svusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0C9682-BAD8-4400-9491-7AAD9E916D9E}|Services\\Services.csproj|c:\\users\\greil\\documents\\quizztuto\\apiclinica\\services\\mydbcontext\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0C9682-BAD8-4400-9491-7AAD9E916D9E}|Services\\Services.csproj|solutionrelative:services\\mydbcontext\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0C9682-BAD8-4400-9491-7AAD9E916D9E}|Services\\Services.csproj|c:\\users\\greil\\documents\\quizztuto\\apiclinica\\services\\expedientesmedico\\svexpedientemedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0C9682-BAD8-4400-9491-7AAD9E916D9E}|Services\\Services.csproj|solutionrelative:services\\expedientesmedico\\svexpedientemedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0C9682-BAD8-4400-9491-7AAD9E916D9E}|Services\\Services.csproj|c:\\users\\greil\\documents\\quizztuto\\apiclinica\\services\\expedientesmedico\\isvexpedientemedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0C9682-BAD8-4400-9491-7AAD9E916D9E}|Services\\Services.csproj|solutionrelative:services\\expedientesmedico\\isvexpedientemedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0C9682-BAD8-4400-9491-7AAD9E916D9E}|Services\\Services.csproj|c:\\users\\greil\\documents\\quizztuto\\apiclinica\\services\\clinica\\svclinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0C9682-BAD8-4400-9491-7AAD9E916D9E}|Services\\Services.csproj|solutionrelative:services\\clinica\\svclinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0C9682-BAD8-4400-9491-7AAD9E916D9E}|Services\\Services.csproj|c:\\users\\greil\\documents\\quizztuto\\apiclinica\\services\\clinica\\isvclinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0C9682-BAD8-4400-9491-7AAD9E916D9E}|Services\\Services.csproj|solutionrelative:services\\clinica\\isvclinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198D0664-3CA3-48DD-8453-4B01E89618BA}|ClinicaApi\\Entidades.csproj|c:\\users\\greil\\documents\\quizztuto\\apiclinica\\clinicaapi\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198D0664-3CA3-48DD-8453-4B01E89618BA}|ClinicaApi\\Entidades.csproj|solutionrelative:clinicaapi\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198D0664-3CA3-48DD-8453-4B01E89618BA}|ClinicaApi\\Entidades.csproj|c:\\users\\greil\\documents\\quizztuto\\apiclinica\\clinicaapi\\clinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198D0664-3CA3-48DD-8453-4B01E89618BA}|ClinicaApi\\Entidades.csproj|solutionrelative:clinicaapi\\clinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198D0664-3CA3-48DD-8453-4B01E89618BA}|ClinicaApi\\Entidades.csproj|c:\\users\\greil\\documents\\quizztuto\\apiclinica\\clinicaapi\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198D0664-3CA3-48DD-8453-4B01E89618BA}|ClinicaApi\\Entidades.csproj|solutionrelative:clinicaapi\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC78513-5B5F-4264-9413-2DF6EF926A0F}|ApiClinica\\ApiClinica.csproj|c:\\users\\greil\\documents\\quizztuto\\apiclinica\\apiclinica\\controllers\\expedientemedicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC78513-5B5F-4264-9413-2DF6EF926A0F}|ApiClinica\\ApiClinica.csproj|solutionrelative:apiclinica\\controllers\\expedientemedicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC78513-5B5F-4264-9413-2DF6EF926A0F}|ApiClinica\\ApiClinica.csproj|c:\\users\\greil\\documents\\quizztuto\\apiclinica\\apiclinica\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC78513-5B5F-4264-9413-2DF6EF926A0F}|ApiClinica\\ApiClinica.csproj|solutionrelative:apiclinica\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC78513-5B5F-4264-9413-2DF6EF926A0F}|ApiClinica\\ApiClinica.csproj|c:\\users\\greil\\documents\\quizztuto\\apiclinica\\apiclinica\\controllers\\clinicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC78513-5B5F-4264-9413-2DF6EF926A0F}|ApiClinica\\ApiClinica.csproj|solutionrelative:apiclinica\\controllers\\clinicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC78513-5B5F-4264-9413-2DF6EF926A0F}|ApiClinica\\ApiClinica.csproj|c:\\users\\greil\\documents\\quizztuto\\apiclinica\\apiclinica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC78513-5B5F-4264-9413-2DF6EF926A0F}|ApiClinica\\ApiClinica.csproj|solutionrelative:apiclinica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\greil\\Documents\\QuizzTuto\\ApiClinica\\ApiClinica\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ApiClinica\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\greil\\Documents\\QuizzTuto\\ApiClinica\\ApiClinica\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ApiClinica\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwCgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:33:07.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExpedienteMedicoController.cs",
+              "DocumentMoniker": "C:\\Users\\greil\\Documents\\QuizzTuto\\ApiClinica\\ApiClinica\\Controllers\\ExpedienteMedicoController.cs",
+              "RelativeDocumentMoniker": "ApiClinica\\Controllers\\ExpedienteMedicoController.cs",
+              "ToolTip": "C:\\Users\\greil\\Documents\\QuizzTuto\\ApiClinica\\ApiClinica\\Controllers\\ExpedienteMedicoController.cs",
+              "RelativeToolTip": "ApiClinica\\Controllers\\ExpedienteMedicoController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAcwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:25:58.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClinicaController.cs",
+              "DocumentMoniker": "C:\\Users\\greil\\Documents\\QuizzTuto\\ApiClinica\\ApiClinica\\Controllers\\ClinicaController.cs",
+              "RelativeDocumentMoniker": "ApiClinica\\Controllers\\ClinicaController.cs",
+              "ToolTip": "C:\\Users\\greil\\Documents\\QuizzTuto\\ApiClinica\\ApiClinica\\Controllers\\ClinicaController.cs",
+              "RelativeToolTip": "ApiClinica\\Controllers\\ClinicaController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:15:50.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyContext.cs",
+              "DocumentMoniker": "C:\\Users\\greil\\Documents\\QuizzTuto\\ApiClinica\\Services\\MyDbContext\\MyContext.cs",
+              "RelativeDocumentMoniker": "Services\\MyDbContext\\MyContext.cs",
+              "ToolTip": "C:\\Users\\greil\\Documents\\QuizzTuto\\ApiClinica\\Services\\MyDbContext\\MyContext.cs",
+              "RelativeToolTip": "Services\\MyDbContext\\MyContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:45:51.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SvExpedienteMedico.cs",
+              "DocumentMoniker": "C:\\Users\\greil\\Documents\\QuizzTuto\\ApiClinica\\Services\\ExpedientesMedico\\SvExpedienteMedico.cs",
+              "RelativeDocumentMoniker": "Services\\ExpedientesMedico\\SvExpedienteMedico.cs",
+              "ToolTip": "C:\\Users\\greil\\Documents\\QuizzTuto\\ApiClinica\\Services\\ExpedientesMedico\\SvExpedienteMedico.cs",
+              "RelativeToolTip": "Services\\ExpedientesMedico\\SvExpedienteMedico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:43:38.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Clinic.cs",
+              "DocumentMoniker": "C:\\Users\\greil\\Documents\\QuizzTuto\\ApiClinica\\ClinicaApi\\Clinic.cs",
+              "RelativeDocumentMoniker": "ClinicaApi\\Clinic.cs",
+              "ToolTip": "C:\\Users\\greil\\Documents\\QuizzTuto\\ApiClinica\\ClinicaApi\\Clinic.cs",
+              "RelativeToolTip": "ClinicaApi\\Clinic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:27:57.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISvExpedienteMedico.cs",
+              "DocumentMoniker": "C:\\Users\\greil\\Documents\\QuizzTuto\\ApiClinica\\Services\\ExpedientesMedico\\ISvExpedienteMedico.cs",
+              "RelativeDocumentMoniker": "Services\\ExpedientesMedico\\ISvExpedienteMedico.cs",
+              "ToolTip": "C:\\Users\\greil\\Documents\\QuizzTuto\\ApiClinica\\Services\\ExpedientesMedico\\ISvExpedienteMedico.cs",
+              "RelativeToolTip": "Services\\ExpedientesMedico\\ISvExpedienteMedico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:11:19.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SvUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\greil\\Documents\\QuizzTuto\\ApiClinica\\Services\\Usuario\\SvUsuario.cs",
+              "RelativeDocumentMoniker": "Services\\Usuario\\SvUsuario.cs",
+              "ToolTip": "C:\\Users\\greil\\Documents\\QuizzTuto\\ApiClinica\\Services\\Usuario\\SvUsuario.cs",
+              "RelativeToolTip": "Services\\Usuario\\SvUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:09:32.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\greil\\Documents\\QuizzTuto\\ApiClinica\\ApiClinica\\Program.cs",
+              "RelativeDocumentMoniker": "ApiClinica\\Program.cs",
+              "ToolTip": "C:\\Users\\greil\\Documents\\QuizzTuto\\ApiClinica\\ApiClinica\\Program.cs",
+              "RelativeToolTip": "ApiClinica\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwBIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:04:22.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SvClinica.cs",
+              "DocumentMoniker": "C:\\Users\\greil\\Documents\\QuizzTuto\\ApiClinica\\Services\\Clinica\\SvClinica.cs",
+              "RelativeDocumentMoniker": "Services\\Clinica\\SvClinica.cs",
+              "ToolTip": "C:\\Users\\greil\\Documents\\QuizzTuto\\ApiClinica\\Services\\Clinica\\SvClinica.cs",
+              "RelativeToolTip": "Services\\Clinica\\SvClinica.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAqwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:00:46.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ISvUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\greil\\Documents\\QuizzTuto\\ApiClinica\\Services\\Usuario\\ISvUsuario.cs",
+              "RelativeDocumentMoniker": "Services\\Usuario\\ISvUsuario.cs",
+              "ToolTip": "C:\\Users\\greil\\Documents\\QuizzTuto\\ApiClinica\\Services\\Usuario\\ISvUsuario.cs",
+              "RelativeToolTip": "Services\\Usuario\\ISvUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:58:36.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISvClinica.cs",
+              "DocumentMoniker": "C:\\Users\\greil\\Documents\\QuizzTuto\\ApiClinica\\Services\\Clinica\\ISvClinica.cs",
+              "RelativeDocumentMoniker": "Services\\Clinica\\ISvClinica.cs",
+              "ToolTip": "C:\\Users\\greil\\Documents\\QuizzTuto\\ApiClinica\\Services\\Clinica\\ISvClinica.cs",
+              "RelativeToolTip": "Services\\Clinica\\ISvClinica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:51:29.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MedicalRecord.cs",
+              "DocumentMoniker": "C:\\Users\\greil\\Documents\\QuizzTuto\\ApiClinica\\ClinicaApi\\MedicalRecord.cs",
+              "RelativeDocumentMoniker": "ClinicaApi\\MedicalRecord.cs",
+              "ToolTip": "C:\\Users\\greil\\Documents\\QuizzTuto\\ApiClinica\\ClinicaApi\\MedicalRecord.cs",
+              "RelativeToolTip": "ClinicaApi\\MedicalRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:37:24.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\greil\\Documents\\QuizzTuto\\ApiClinica\\ClinicaApi\\User.cs",
+              "RelativeDocumentMoniker": "ClinicaApi\\User.cs",
+              "ToolTip": "C:\\Users\\greil\\Documents\\QuizzTuto\\ApiClinica\\ClinicaApi\\User.cs",
+              "RelativeToolTip": "ClinicaApi\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:36:53.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
